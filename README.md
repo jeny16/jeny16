@@ -32,11 +32,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Jeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeny16\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeny16\&layout=compact\&theme=radical)
-
----
-
 > “Design with logic. Build with passion. Deliver with purpose.” ✨
