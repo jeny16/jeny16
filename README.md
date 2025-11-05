@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm **Jeny Pansuriya**
+# I'm **Jeny Pansuriya**
 
 🚀 Full-Stack Developer | ReactJS | NodeJS | MongoDB | Express
 
