@@ -4,8 +4,10 @@
 
 🚀 Full-Stack Developer | ReactJS | NodeJS | MongoDB | Express
 
-📍 Ahmedabad, Gujarat | 📧 [jenypansuriya2004@gmail.com](mailto:jenypansuriya2004@gmail.com) | 📞 +91 8511998086
-🌐 [GitHub](https://github.com/jeny16) | [LinkedIn](https://www.linkedin.com/in/jenis-pansuriya/)
+- 📍 Ahmedabad, Gujarat 
+- 📧 [jenypansuriya2004@gmail.com](mailto:jenypansuriya2004@gmail.com) 
+- 📞 +91 8511998086
+- 🌐 [GitHub](https://github.com/jeny16) | [LinkedIn](https://www.linkedin.com/in/jenis-pansuriya/)
 
 ---
 
@@ -28,6 +30,7 @@
 ### 💼 Experience
 
 **JBRsys Tech** – Junior Full-Stack Developer *(Jul 2025 – Current)*
+
 **GreyCell Labs Inc.** – Full-Stack Developer Trainee *(Jan 2025 – Jun 2025)*
 
 ---
